@@ -1,0 +1,2 @@
+# FritzCompProg
+Computer Programming Activity
